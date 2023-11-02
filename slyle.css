@@ -2,7 +2,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
     flex-direction: column;
-    margin: 30px 290px 30px 290px;
+    margin: 30px 190px 30px 190px;
     line-height: 1.4;
 }
 
@@ -10,22 +10,22 @@ body {
 .header__avatar {
     border-radius: 8px;
     font-size: 10px;
-    margin: 30px 190px 30px 190px;
+    margin: 30px 90px 30px 90px;
     line-height: 1.4;
 }
 
 .header__title {
-    margin: 30px 290px 30px 290px;
-    font-size: 62px;
+    margin: 30px 190px 30px 190px;
+    font-size: 45px;
     line-height: 1.4;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 .header__subtitle {
     color: rgb(130, 127, 127);
-    font-size: 40px;
+    font-size: 25px;
     line-height: 1.4;
-    margin: 30px 290px 30px 290px;
+    margin: 30px 190px 30px 190px;
     
 }
 
@@ -34,7 +34,7 @@ h1:hover{
     
 }
 footer{
-    font-size: 25px;
+    font-size: 20px;
     line-height: 1.4;
-    margin: 30px 290px 30px 290px;
+    margin: 30px 190px 30px 190px;
 }
